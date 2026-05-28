@@ -1,6 +1,8 @@
 # GrocerEase
 
-AI-powered meal planning and grocery list app. Vibe-coded with [Lovable](https://lovable.dev) as a product design prototype.
+AI-powered meal planning and grocery list app, built in 3 hours during a [Lovable](https://lovable.dev) hackathon at NYU Stern.
+
+The challenge was to build a working app using Lovable within a single session. This is a quick prototype addressing a universal pain point: figuring out what to eat and what to buy at the grocery store. This first iteration targets singles and couples doing weekly meal planning, but there is significant room to expand to different demographics (families, dietary-specific communities, budget-conscious shoppers) in future iterations.
 
 ### The Problem
 
